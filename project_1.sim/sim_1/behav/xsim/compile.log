@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents - HDD/Year 4 - Semester 2/ce4518/project_1/project_1.srcs/sources_1/new/cordic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CORDIC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Documents - HDD/Year 4 - Semester 2/ce4518/project_1/project_1.srcs/sim_1/new/cordic_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CORDIC_TESTBENCH
