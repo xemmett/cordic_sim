@@ -4,4 +4,4 @@
 <h1> c_scripts <h1>
 <br>c programming scripts<br>
 <h1> verilog <h1>
-<br> verilog scripts <br>
+verilog scripts
