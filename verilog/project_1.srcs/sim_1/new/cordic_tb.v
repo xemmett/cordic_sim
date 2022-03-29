@@ -1,5 +1,4 @@
 //CORDIC Testbench for sine and cosine
-//17187125
 
 module CORDIC_TESTBENCH;
 
