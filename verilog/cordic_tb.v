@@ -2,7 +2,7 @@
 // Tests for +- angles 
 // Edge cases are +-90 and 0 degrees
 // Student Names: Charlie Gorey O'Neill, Emmett Lawlor, Niall Coughlan, Cian Surlis, Ciaran Hogan
-// Id: 18222803, 18238831, , 18233074, 18238831
+// Id: 18222803, 18238831, 16154355 ,18233074, 18238831
 `timescale 1ns/1ps
 
 module cordic_tb;
