@@ -2,7 +2,7 @@
  * Cordic1.v - Implementation of a 2.16 Cordic Processor
  * Co-Ordinate Rotational by DIgital Computer
  * Student Names: Charlie Gorey O'Neill, Emmett Lawlor, Niall Coughlan, Cian Surlis, Ciaran Hogan
- * Id: 18222803, 18238831, , 18233074, 18238831
+ * Id: 18222803, 18238831, 16154355 , 18233074, 18238831
  */
 
 module CORDIC(output signed[1:-16] cosine,
